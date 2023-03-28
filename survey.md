@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Purple
+Favorite food: Chips
+Favorite musician/band: None
+Favorite movie: Something with space and AI
+Requested grade in the course: 56+ (plz)
